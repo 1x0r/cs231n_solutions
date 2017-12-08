@@ -4,7 +4,7 @@ Here I will try to implement all the assignments of the Stanford's [CS231n cours
 ## Assignment 1
 
 - Q1: k-Nearest Neighbor classifier (20 points) | **DONE** => \[[.ipynb](./assignment_1/knn.ipynb)\]
-- Q2: Training a Support Vector Machine (25 points)
+- Q2: Training a Support Vector Machine (25 points) | **DONE** => \[[.ipynb](./assignment_1/svm.ipynb)\]
 - Q3: Implement a Softmax classifier (20 points)
 - Q4: Two-Layer Neural Network (25 points)
 - Q5: Higher Level Representations: Image Features (10 points)
